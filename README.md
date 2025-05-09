@@ -35,8 +35,8 @@ Understand customer behavior in Brazil's e-commerce sector using the Olist datas
     - Greater shipping distance → longer delivery time → lower rating.
 
 5. **RFM Analysis**
-    - Nearly 60% of customers show signs of churn.
-    - 40% of customers are new.
+    - Over 80% of customers show signs of churn -> extremely high churn rate.
+    - Nearly 20% are new customers.
     - Loyal and VIP customers are very rare and insignificant in proportion.
 
 ### 🧩 Challenges
@@ -86,8 +86,8 @@ Hiểu rõ hành vi tiêu dùng của khách hàng trong thương mại điện 
    - Khoảng cách địa lý càng xa → giao hàng càng chậm → điểm đánh giá thấp hơn.
 
 5. **Phân tích RFM**
-    - Tỉ lệ khách rời bỏ chiếm gần 60% trong tổng số khách hàng.
-    - 40% khách hàng tại Olist là khách hàng mới.
+    - Tỉ lệ khách rời bỏ chiếm hơn 80% trong tổng số khách hàng -> Tỉ lệ rời bỏ cực kì cao.
+    - Gần 20% khách hàng tại Olist là khách hàng mới.
     - Khách hàng trung thành và khách hàng VIP chiếm tỉ lệ cực nhỏ, không đáng kể
 
 ### 🧩 Khó khăn
