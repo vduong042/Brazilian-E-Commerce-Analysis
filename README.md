@@ -66,7 +66,7 @@ Hiểu rõ hành vi tiêu dùng của khách hàng trong thương mại điện 
 ### 🔍 Phân tích chính
 
 1. **Thời gian tiêu dùng**
-    - Số lượng đơn hàng tăng nhanh từ đầu nawmg 2017, đạt đỉnh vào tháng 11/2017 sau đó duy trì ở mức tương đối ổn định trong năm 2018.
+    - Số lượng đơn hàng tăng nhanh từ đầu năm 2017, đạt đỉnh vào tháng 11/2017 sau đó duy trì ở mức tương đối ổn định trong năm 2018.
     - Thứ Hai là ngày có lượng đơn đặt hàng cao nhất trong tuần, sau đó giảm dần vào các ngày sau đó.
     - Hoạt động mua sắm tập trung vào chiều/tối.
 
